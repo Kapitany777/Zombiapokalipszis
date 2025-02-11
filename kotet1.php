@@ -1,6 +1,4 @@
 <?php
-session_start();
-
 include_once("include/inc_page.php");
 include_once("dictionary/dict_hungarian.php");
 
