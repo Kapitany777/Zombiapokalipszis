@@ -67,7 +67,7 @@ $page = new Page(SITE_NAME, TITLE_MAIN);
     </p>
 
     <p>
-        Utolsó módosítás: 2021.05.31.
+        Utolsó módosítás: 2025.02.11.
     </p>
 
     <hr/>
