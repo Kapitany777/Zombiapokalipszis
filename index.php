@@ -30,19 +30,19 @@ $page = new Page(SITE_NAME, TITLE_MAIN);
     <h2>Bevezető</h2>
 
     <p>
-        Ez itt a <a href="http://www.lidercfeny.hu/" target="_blank">Lidércfény Online Kulturális Magazin</a> simagöröngyösi zombi-apokalipszis kötetének hivatalos oldala. Itt
+        Ez itt a <a href="https://www.lidercfeny.hu/" target="_blank">Lidércfény Online Kulturális Magazin</a> simagöröngyösi zombi-apokalipszis kötetének hivatalos oldala. Itt
         megtalálhatsz mindent, amit Simagöröngyösről tudni kell.
     </p>
 
     <p>
-        Az oldal grafikai elemeit a <a href="http://findicons.com/" target="_blank">http://findicons.com/</a> oldalon találtuk, a képeket Anthony Piraino illetve a Zeusbox Studio
+        Az oldal grafikai elemeit a FindIcons oldalon találtuk, a képeket Anthony Piraino illetve a Zeusbox Studio
         készítette.
         A fejléc felirata a Xara 3D5 programmal készült.
     </p>
 
     <p>
         A kötethez létrehozott Facebook-csoportot itt érheted el:
-        <a href="http://www.facebook.com/groups/161297927316874/" target="_blank"><img src="felulet/facebook.png" alt="Facebook"/></a>
+        <a href="https://www.facebook.com/groups/161297927316874/" target="_blank"><img src="felulet/facebook.png" alt="Facebook"/></a>
     </p>
 
     <p>
@@ -59,7 +59,7 @@ $page = new Page(SITE_NAME, TITLE_MAIN);
     </p>
 
     <p>
-        2012.06.19.: az oldal elérhető a <a href="http://www.zombiapokalipszis.hu/">http://www.zombiapokalipszis.hu/</a> címen is.
+        2012.06.19.: az oldal elérhető a <a href="https://www.zombiapokalipszis.hu/">https://www.zombiapokalipszis.hu/</a> címen is.
     </p>
 
     <p>
@@ -85,19 +85,19 @@ $page = new Page(SITE_NAME, TITLE_MAIN);
 
         <p>
             PDF formátum, jobb minőségű változat, kb.10MB:<br/>
-            <a href="download/za_simagorongyos_rf_print.pdf" target="_blank">http://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_print.pdf</a>
+            <a href="download/za_simagorongyos_rf_print.pdf" target="_blank">https://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_print.pdf</a>
         </p>
 
         <p>
             PDF formátum, kisebb méretű változat, kb.2MB:<br/>
-            <a href="download/za_simagorongyos_rf_screen.pdf" target="_blank">http://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_screen.pdf</a>
+            <a href="download/za_simagorongyos_rf_screen.pdf" target="_blank">https://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_screen.pdf</a>
         </p>
 
         <p>
             Epub formátum:<br/>
-            <a href="download/za_simagorongyos_rf_ebook_fixed.epub">http://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_ebook_fixed.epub</a>
+            <a href="download/za_simagorongyos_rf_ebook_fixed.epub">https://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_ebook_fixed.epub</a>
             <br/>
-            <a href="download/za_simagorongyos_rf_ebook_flow.epub">http://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_ebook_flow.epub</a>
+            <a href="download/za_simagorongyos_rf_ebook_flow.epub">https://www.zombiapokalipszis.hu/download/za_simagorongyos_rf_ebook_flow.epub</a>
         </p>
     </div>
 
@@ -114,44 +114,37 @@ $page = new Page(SITE_NAME, TITLE_MAIN);
 
         <p>
             PDF formátum, a könyv második, javított kiadása, kb.14MB:<br/>
-            <a href="download/zombiapokalipszis_simagorongyos.pdf" target="_blank">http://www.zombiapokalipszis.hu/download/zombiapokalipszis_simagorongyos.pdf</a>
+            <a href="download/zombiapokalipszis_simagorongyos.pdf" target="_blank">https://www.zombiapokalipszis.hu/download/zombiapokalipszis_simagorongyos.pdf</a>
         </p>
 
         <p>
             Epub formátum, kb.700kB:<br/>
-            <a href="download/zombiapokalipszis_simagorongyos.epub">http://www.zombiapokalipszis.hu/download/zombiapokalipszis_simagorongyos.epub</a>
+            <a href="download/zombiapokalipszis_simagorongyos.epub">https://www.zombiapokalipszis.hu/download/zombiapokalipszis_simagorongyos.epub</a>
         </p>
 
         <p>
             PDF formátum, a könyv első verziója, kb.18MB:<br/>
-            <a href="download/zombiapokalipszis_simagorongyos_v1.pdf" target="_blank">http://www.zombiapokalipszis.hu/download/zombiapokalipszis_simagorongyos_v1.pdf</a>
+            <a href="download/zombiapokalipszis_simagorongyos_v1.pdf" target="_blank">https://www.zombiapokalipszis.hu/download/zombiapokalipszis_simagorongyos_v1.pdf</a>
         </p>
     </div>
 
     <h2 style="clear: both;">Fapadoskonyv.hu, az első kötet</h2>
 
     <div>
-        <a href="http://fapadoskonyv.hu/zombi-apokalipszis-a-kezdet-simagorongyos.html" target="_blank">
-            <img src="images/fapados_borito.jpg" alt="Az első kötet borítója" width="225" height="332" class="illusztracio"/>
-        </a>
+        <img src="images/fapados_borito.jpg" alt="Az első kötet borítója" width="225" height="332" class="illusztracio"/>
 
         <p style="padding-top: 100px;">
             A <em>Zombi apokalipszis, A kezdet: Simagöröngyös</em> a Fapadoskonyv.hu kiadó által megjelentetett verziója az alábbi címekről tölthető le:
         </p>
 
-        <!--p>
-            Papír formátum, 2400 Ft<br />
-            <a href="http://fapadoskonyv.hu/zombi-apokalipszis-a-kezdet-simagorongyos.html" target="_blank">http://fapadoskonyv.hu/zombi-apokalipszis-a-kezdet-simagorongyos.html</a>
-        </p-->
-
         <p>
             Epub formátum, kb.2.1MB:<br/>
-            <a href="download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.epub">http://www.zombiapokalipszis.hu/download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.epub</a>
+            <a href="download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.epub">https://www.zombiapokalipszis.hu/download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.epub</a>
         </p>
 
         <p>
             Mobi formátum, kb.3.8MB:<br/>
-            <a href="download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.mobi">http://www.zombiapokalipszis.hu/download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.mobi</a>
+            <a href="download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.mobi">https://www.zombiapokalipszis.hu/download/Lidercfeny_Zombi-Apokalipszis_DRMFREE.mobi</a>
         </p>
     </div>
 
