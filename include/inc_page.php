@@ -37,7 +37,7 @@ class Page extends AbstractPage
     function Footer()
     {
         print("<div id=\"footer\">\n");
-        print("&copy; 2001-2025 <a href=\"http://www.lidercfeny.hu/\" target=\"_blank\">Lidércfény Online Kulturális Magazin</a>\n");
+        print("&copy; 2001-2025 <a href=\"https://www.lidercfeny.hu/\" target=\"_blank\">Lidércfény Online Kulturális Magazin</a>\n");
         print("</div>\n");
     }
 }

@@ -32,15 +32,13 @@ $page = new Page(SITE_NAME, TITLE_ABOUT_US);
     </p>
 
     <ul>
-        <li><a href="http://andreaczovek.blogspot.com/2012/03/zombi-apokalipszis-kezdet-simagorongyos.html" target="_blank">Mab Tee: Zombi apokalipszis - A kezdet:
-                Simagöröngyös</a></li>
-        <li><a href="http://cyruslivingstone.blogspot.com/2012/03/zombitamadas.html" target="_blank">Cyrus Livingstone: Zombitámadás!</a></li>
-        <li><a href="http://www.szentesinfo.hu/mozaik/2012/3/zombi.htm" target="_blank">Szentesi Mozaik: Zombi Apokalipszis – A kezdet: Simagöröngyös</a></li>
-        <li><a href="http://www.szentesinfo.hu/szentesielet/2012/pdf/sze20120330_13.pdf" target="_blank">Szentesi Élet: Zombik "lidércfényben"; az 5.oldalon olvasható a cikk</a>
+        <!--li><a href="http://andreaczovek.blogspot.com/2012/03/zombi-apokalipszis-kezdet-simagorongyos.html" target="_blank">Mab Tee: Zombi apokalipszis - A kezdet: Simagöröngyös</a></li-->
+        <li><a href="https://cyruslivingstone.blogspot.com/2012/03/zombitamadas.html" target="_blank">Cyrus Livingstone: Zombitámadás!</a></li>
+        <li><a href="https://www.szentesinfo.hu/mozaik/2012/3/zombi.htm" target="_blank">Szentesi Mozaik: Zombi Apokalipszis – A kezdet: Simagöröngyös</a></li>
+        <li><a href="https://www.szentesinfo.hu/szentesielet/2012/pdf/sze20120330_13.pdf" target="_blank">Szentesi Élet: Zombik "lidércfényben"; az 5.oldalon olvasható a cikk</a>
         </li>
-        <li><a href="http://www.delmagyar.hu/szentes_hirek/lidercfeny_szentesen_elohalottak_simagorongyoson/2280563/" target="_blank">Délmagyar: Lidércfény Szentesen, élőhalottak
-                Simagöröngyösön</a></li>
-        <li><a href="http://talesfromtheblog.blog.hu/2013/05/17/zombi-apokalipszis_simagorongyoson" target="_blank">Tales From The Blog: Zombi-apokalipszis Simagöröngyösön</a></li>
+        <!--li><a href="http://www.delmagyar.hu/szentes_hirek/lidercfeny_szentesen_elohalottak_simagorongyoson/2280563/" target="_blank">Délmagyar: Lidércfény Szentesen, élőhalottak Simagöröngyösön</a></li-->
+        <li><a href="https://talesfromtheblog.blog.hu/2013/05/17/zombi-apokalipszis_simagorongyoson" target="_blank">Tales From The Blog: Zombi-apokalipszis Simagöröngyösön</a></li>
         <li><a href="https://www.fantasybooks.hu/?p=14" target="_blank">Fantasy Books: Zombi-apokalipszis Simagöröngyösön</a></li>
         <li><a href="https://moly.hu/konyvek/bognar-zsolt-szerk-zombi-apokalipszis-a-kezdet-simagorongyos" target="_blank">Moly: Zombi Apokalipszis – A kezdet: Simagöröngyös</a></li>
         <li><a href="https://moly.hu/konyvek/bognar-zsolt-szerk-zombi-apokalipszis-a-simagorongyosi-remulet-folytatodik" target="_blank">Moly: Zombi Apokalipszis – A simagöröngyösi rémület folytatódik </a></li>
