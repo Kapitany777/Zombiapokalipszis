@@ -59,6 +59,7 @@ p
     color: #ffffff;
     font-size: 10pt;
     text-align: justify;
+    line-height: 140%;
 }
 
 p.rajz
@@ -100,6 +101,7 @@ li
     background-color: #000000;
     color: #ffffff;
     font-size: 10pt;
+    line-height: 140%;
 }
 
 a
