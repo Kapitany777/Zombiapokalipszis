@@ -110,6 +110,11 @@ a
     color: crimson;
 }
 
+iframe
+{
+    border: none;
+}
+
 #footer
 {    
     background-color: #101010;
